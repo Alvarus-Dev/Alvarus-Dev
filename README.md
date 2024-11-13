@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alvarus-Dev
 - 👀 I’m interested in Dev, BackEnd.
-- 🌱 I’m currently learning Python,Djangoo
-- ⚡ Fun fact: i learn with openclassrooms
+- 🌱 I’m currently learning Python, Djangoo.
+- ⚡ Fun fact: i learn On OpenClassrooms
 
 <!---
 Alvarus-Dev/Alvarus-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
